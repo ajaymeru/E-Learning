@@ -4,3 +4,5 @@ document.querySelector('.burger').addEventListener('click', () => {
     navLinks.classList.toggle('show');
     burger.classList.toggle('toggle');
 });
+
+
